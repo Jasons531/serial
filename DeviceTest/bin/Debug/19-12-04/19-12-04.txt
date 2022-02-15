@@ -1,0 +1,839 @@
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:0
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  999
+ulActualDelay:910
+ulCalibrateSynchPrediv:1097
+RTC:40626Hz
+00-01-01 00:00:00
+Flag after Set-90
+00-01-01 00:00:01
+A
+SW:YC.SW.P020.M0.14
+HW:
+ID:0906271082DE0005
+device.nongbotech.com
+9000
+ulFlag:00000090
+Spi:0x00c22013
+delay_time = -119
+BatV:4.126952
+BatP:100
+CgV:4.654407
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port2:ff
+关闭主板开关:02
+
+
+位置	地址
+Gps:Ok
+未联网
+SIMinit
+
+发送的命令：400,10,4,OK,AT
+---RECV:
+RDY
+发送的命令：400,10,4,OK,AT
+---RECV:AT
+OK
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1OK
+---RECV:ATV1K
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1
+OK
+发送的命令：400,10,11,OK,AT+CMEE=2
+---RECV:AT+CMEE=2
+OK
+发送的命令：400,10,6,OK,ATE0
+---RECV:ATE0
+OK
+
+OK
+发送的命令：5000,5,10,+CPIN: READY,AT+CPIN?
+---RECV:
++CPIN: READY
+
+OK
+发送的命令：400,2,9,OK,AT+CIMI
+---RECV:
+460046511704893
+
+OK
+成功接收CIMI！！！！发送的命令??00,2,10,OK,AT+QCCID
+---RECV:
++QCCID: 89860445041990154893
+
+OK
+成功接收CCID！！！
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+990154893
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 15,99
+
+OK
+csq:15
+发送的命令：400,1,10,OK,AT+CREG?
+---RECV:
++CREG: 0,2
+
+OK
+
+发送的命令：400,1,10,OK,AT+CREG?
+---RECV:
++CREG: 0,2
+
+OK
+发送的命令：400,1,10,OK,AT+CREG?
+---RECV:
++CREG: 0,1
+
+OK
+发送的命令：400,1,11,OK,AT+CEREG?
+---RECV:
++CEREG: 0,1
+
+OK
+发?偷拿睿?00,5,9,OK,AT+QCSQ
+---RECV:
++QCSQ: "CAT-NB1",-84,-87,100,0
+
+OK
+发送的命令：400,5,12,OK,AT+QNWINFO
+---RECV:
++QNWINFO: "CAT-NB1","46000","LTE BAND 8",3734
+
+OK
+?⑺偷拿睿?80000,2,10,OK,AT+COPS?
+---RECV:
++COPS: 0,0,"CHINA MOBILE CMCC",9
+
+OK
+,3734
+
+OK
+?⑺偷拿睿?000,2,31,OK,AT+QICSGP=1,1,"CMNET","","",0
+---RECV:
+OK
+S: 0,0,"CHINA MOBILE CMCC",9
+
+OK
+发送的命令：400,3,13,OK,AT+CGDCONT?
+---RECV:
++CGDCONT: 1,"IP","CMNET","0.0.0.0",0,0,0,0
+
+OK
+K
+SIM init OK !!
+
+SIM init OK 222 !!
+
+发送的命令：150000,3,12,OK,AT+QIACT=1
+---RECV:
+OK
+CONT: 1,"IP","CMNET","0.0.0.0",0,0,0,0
+
+OK
+发送的命令：151000,3,11,OK,AT+QIACT?
+---RECV:
++QIACT: 1,1,1,"100.76.98.113"
+
+OK
+0,0,0
+
+OK
+发送的命令：150000,2,54,+QIOPEN:,AT+QIOPEN=1,0,"TCP","device.nongbotech.com",9000,0,1
+---RECV:
+OK
+CT: 1,1,1,"100.76.98.113"
+
+OK
+---RECV:
+OK
+
++QIOPEN: 0,0
+6.98.113"
+
+OK
+g_ucSimRxBuff:
+OK
+
++QIOPEN: 0,0
+
+Connect:Ok
+发送的命令：5000,2,16,>,AT+QISEND=0,27
+---RECV:
+> 
+
++QIOPEN: 0,0
+30 39 30 36 32 37 31 30 38 32 44 45 30 30 30 35 00 00 01 00 00 00 07 85 3e d4 0a ---RECV:
+SEND OK
+OPEN: 0,0
+发送数据成功
+
+收到1:30 39 30 36 32 37 31 30 38 32 44 45 30 30 30 35 00 00 a0 09 5d e7 1d 4b 00 00 0b 6f 00 00 00 22 17 22 77 0a 0d 0a 
+SoftwareVer: 00
+ComType:     00
+Comand:      A0
+FieldLength: 09
+Seq:         00002217
+上行回复
+ulTime: 1575427403
+ulSeq:  2927
+ucState:00
+设置时间:2019-12-04 10:43:23
+Ack OK
+CRC16数据校验或长度错误:
+
+
+CRC16数据校验:27
+
+读取一帧未发送的数据
+ReadAddr:
+ucStartTag:   7e
+ulSaveStart:  000021ce
+ulSaveEnd:    000021ce
+当前无未发送数据
+上报传感器数据
+19-12-04 10:43:23
+BatV:4.122605
+BatP:100
+CgV:4.638076
+Bat:Ing
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 18,99
+
+OK
+
+0906271082DE0005csq:18
+发送的命令：5000,2,16,>,AT+QISEND=0,37
+---RECV:
+> SQ: 18,99
+
+OK
+30 39 30 36 32 37 31 30 38 32 44 45 30 30 30 35 00 00 00 0a 5d e7 1d 4b 64 02 12 63 12 1e 00 00 07 86 1d 15 0a ---RECV:
+SEND OK
+99
+
+OK
+发?褪莩晒?
+
+收到1:30 39 30 36 32 37 31 30 38 32 44 45 30 30 30 35 00 00 a0 09 5d e7 1d 4c 00 00 0b 6f 00 00 00 22 18 d3 a9 0a 0d 0a 
+SoftwareVer: 00
+ComType:     00
+Comand:      A0
+FieldLength: 09
+Seq:         00002218
+上行回复
+ulTime: 1575427404
+ulSeq:  2927
+ucState:00
+设置时间:2019-12-04 10:43:24
+Ack OK
+CRC16数据校验或长度错误:
+
+
+CRC16数据校验:27
+
+CheckDone
+delay_time = 3916
+10-43-24  0906271082DE0005    YC.SW.P020.M0.14             89860445041990154893     0,1    FAIL
+ulFlag:00000000
+发送的命令：10000,3,14,OK,AT+QICLOSE=0
+BOOT CODE !!!!!!
+跳到A:8005000
+19-12-04 10:43:50
+A
+SW:YC.SW.P020.M0.14
+HW:
+ID:0906271082DE0005
+device.nongbotech.com
+8000
+ulFlag:00000000
+Spi:0x00c22013
+delay_time = -119
+BatV:4.125333
+BatP:100
+CgV:4.638076
+Bat:Ing
+485Rx 0:
+不需要重新获取传感器连接状态
+
+位置	地址
+Gps:Ok
+19-12-04 10:43:54
+SIMinit
+
+发送的命令：400,10,4,OK,AT
+---RECV:发送的命令：400,10,4,OK,AT
+---RECV:AT
+OK
+T
+OK
+发送的?睿?00,10,6,OK,ATV1
+---RECV:ATV1OK
+---RECV:ATV1K
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1
+OK
+
+OK
+发送的?睿?00,10,11,OK,AT+CMEE=2
+---RECV:AT+CMEE=2
+OK
+
+发送的?睿?00,10,6,OK,ATE0
+---RECV:ATE0
+OK
+
+OK
+发送的命令：5000,5,10,+CPIN: READY,AT+CPIN?
+---RECV:
++CPIN: READY
+
+OK
+发送的命令：400,2,9,OK,AT+CIMI
+---RECV:
+460046511704893
+
+OK
+成功接收CIMI！！！！发送的命令??00,2,10,OK,AT+QCCID
+---RECV:
++QCCID: 89860445041990154893
+
+OK
+成功接收CCID！！！
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+990154893
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 19,99
+
+OK
+csq:19
+发送的命令：400,1,10,OK,AT+CREG?
+---RECV:
++CREG: 0,2
+
+OK
+
+发送的命令：400,1,10,OK,AT+CREG?
+---RECV:
++CREG: 0,1
+
+OK
+发送的命令：400,1,11,OK,AT+CEREG?
+---RECV:
++CEREG: 0,1
+
+OK
+发?偷拿睿?00,5,9,OK,AT+QCSQ
+---RECV:
++QCSQ: "CAT-NB1",-76,-87,113,-10
+
+OK
+发送的命令：400,5,12,OK,AT+QNWINFO
+---RECV:
++QNWINFO: "CAT-NB1","46000","LTE BAND 8",3734
+
+OK
+?⑺偷拿睿?80000,2,10,OK,AT+COPS?
+---RECV:
++COPS: 0,0,"CHINA MOBILE CMCC",9
+
+OK
+,3734
+
+OK
+?⑺偷拿睿?000,2,31,OK,AT+QICSGP=1,1,"CMNET","","",0
+---RECV:
+OK
+S: 0,0,"CHINA MOBILE CMCC",9
+
+OK
+发送的命令：400,3,13,OK,AT+CGDCONT?
+---RECV:
++CGDCONT: 1,"IP","CMNET","0.0.0.0",0,0,0,0
+
+OK
+K
+SIM init OK !!
+
+SIM init OK 222 !!
+
+发送的命令：150000,3,12,OK,AT+QIACT=1
+---RECV:
+OK
+CONT: 1,"IP","CMNET","0.0.0.0",0,0,0,0
+
+OK
+发送的命令：151000,3,11,OK,AT+QIACT?
+---RECV:
++QIACT: 1,1,1,"100.106.76.131"
+
+OK
+,0,0
+
+OK
+发送的命令：150000,2,54,+QIOPEN:,AT+QIOPEN=1,0,"TCP","device.nongbotech.com",8000,0,1
+---RECV:
+OK
+CT: 1,1,1,"100.106.76.131"
+
+OK
+---RECV:
+OK
+
++QIOPEN: 0,566
+.76.131"
+
+OK
+g_ucSimRxBuff:
+OK
+
++QIOPEN: 0,566
+
+发送的命令：150000,2,54,+QIOPEN:,AT+QIOPEN=1,0,"TCP","device.nongbotech.com",8000,0,1
+---RECV:
+OK
+
++QIOPEN: 0,566
+---RECV:
+OK
+
++QIOPEN: 0,566
+g_ucSimRxBuff:
+OK
+
++QIOPEN: 0,566
+
+Connect:Err
+发送的命令：10000,3,14,OK,AT+QICLOSE=0
+---RECV:
+OK
+
++QIOPEN: 0,566
+发送的命令：40000,3,14,OK,AT+QIDEACT=1
+---RECV:
+OK
+发送的命令：150000,2,54,+QIOPEN:,AT+QIOPEN=1,0,"TCP","device.nongbotech.com",8000,0,1
+---RECV:
+OK
+BOOT CODE !!!!!!
+跳到A:8005000
+19-12-04 10:50:08
+A
+SW:YC.SW.P020.M0.14
+HW:
+ID:0906271082DE0005
+device.nongbotech.com
+8000
+ulFlag:00000000
+Spi:0x00c22013
+delay_time = -119
+BatV:4.123715
+BatP:100
+CgV:4.646241
+Bat:Ing
+485Rx 0:
+不需要重新获取传感器连接状态
+
+位置	地址
+Gps:Ok
+19-12-04 10:50:12
+SIMinit
+
+发送的命令：400,10,4,OK,AT
+---RECV:发送的命令：400,10,4,OK,AT
+---RECV:AT
+OK
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1OK
+---RECV:ATV1K
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1
+OK
+发送的命令：400,10,11,OK,AT+CMEE=2
+---RECV:AT+CMEE=2
+OK
+发送的命令：400,10,6,OK,ATE0
+---RECV:ATE0
+OK
+
+OK
+发送的命令：5000,5,10,+CPIN: READY,AT+CPIN?
+---RECV:
++CPIN: READY
+
+OK
+发送的命令：400,2,9,OK,AT+CIMI
+---RECV:
+460046511704893
+
+OK
+成功接收CIMI！！！！发送的命令??00,2,10,OK,AT+QCCID
+---RECV:
++QCCID: 89860445041990154893
+
+OK
+成功接收CCID！！！
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+990154893
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 16,99
+
+OK
+csq:16
+发送的命令：400,1,10,OK,AT+CREG?
+---RECV:
++CREG: 0,2
+
+OK
+
+发送的命令：400,1,10,OK,AT+CREG?
+---RECV:
++CREG: 0,2
+
+OK
+发送的命令：400,1,10,OK,AT+CREG?
+---RECV:
++CREG: 0,1
+
+OK
+发送的命令：400,1,11,OK,AT+CEREG?
+---RECV:
++CEREG: 0,1
+
+OK
+发?偷拿睿?00,5,9,OK,AT+QCSQ
+---RECV:
++QCSQ: "CAT-NB1",-82,-86,114,0
+
+OK
+发送的命令：400,5,12,OK,AT+QNWINFO
+---RECV:
++QNWINFO: "CAT-NB1","46000","LTE BAND 8",3734
+
+OK
+?⑺偷拿睿?80000,2,10,OK,AT+COPS?
+---RECV:
++COPS: 0,0,"CHINA MOBILE CMCC",9
+
+OK
+,3734
+
+OK
+?⑺偷拿睿?000,2,31,OK,AT+QICSGP=1,1,"CMNET","","",0
+---RECV:
+OK
+S: 0,0,"CHINA MOBILE CMCC",9
+
+OK
+发送的命令：400,3,13,OK,AT+CGDCONT?
+---RECV:
++CGDCONT: 1,"IP","CMNET","0.0.0.0",0,0,0,0
+
+OK
+K
+SIM init OK !!
+
+SIM init OK 222 !!
+
+发送的命令：150000,3,12,OK,AT+QIACT=1
+---RECV:
+OK
+CONT: 1,"IP","CMNET","0.0.0.0",0,0,0,0
+
+OK
+发送的命令：151000,3,11,OK,AT+QIACT?
+---RECV:
++QIACT: 1,1,1,"100.110.153.99"
+
+OK
+,0,0
+
+OK
+发送的命令：150000,2,54,+QIOPEN:,AT+QIOPEN=1,0,"TCP","device.nongbotech.com",8000,0,1
+---RECV:
+OK
+CT: 1,1,1,"100.110.153.99"
+
+OK
+Server Connect Sucess!!!
+---RECV:
+OK
+
++QIOPEN: 0,566
+.153.99"
+
+OK
+g_ucSimRxBuff:
+OK
+
++QIOPEN: 0,566
+
+发送的命令：150000,2,54,+QIOPEN:,AT+QIOPEN=1,0,"TCP","device.nongbotech.com",8000,0,1
+---RECV:
+OK
+
++QIOPEN: 0,566
+---RECV:
+OK
+
++QIOPEN: 0,566
+g_ucSimRxBuff:
+OK
+
++QIOPEN: 0,566
+
+Connect:Err
+发送的命令：10000,3,14,OK,AT+QICLOSE=0
+---RECV:
+OK
+
++QIOPEN: 0,566
+发送的命令：40000,3,14,OK,AT+QIDEACT=1
+---RECV:
+OK
+发送的命令：150000,2,54,+QIOPEN:,AT+QIOPEN=1,0,"TCP","device.nongbotech.com",8000,0,1
+---RECV:
+OK
+BOOT CODE !!!!!!
+跳到A:8005000
+19-12-04 11:08:33
+A
+SW:YC.SW.P020.M0.14
+HW:
+ID:0906271082DE0005
+device.nongbotech.com
+9000
+ulFlag:00000000
+Spi:0x00c22013
+delay_time = -119
+BatV:4.129685
+BatP:100
+CgV:4.682003
+Bat:Ing
+485Rx 0:
+不需要重新获取传感器连接状态
+
+位置	地址
+Gps:Ok
+19-12-04 11:08:37
+SIMinit
+
+发送的命令：400,10,4,OK,AT
+---RECV:发送的命令：400,10,4,OK,AT
+---RECV:AT
+OK
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1OK
+---RECV:ATV1K
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1
+OK
+发送的命令：400,10,11,OK,AT+CMEE=2
+---RECV:AT+CMEE=2
+OK
+发送的命令：400,10,6,OK,ATE0
+---RECV:ATE0
+OK
+
+OK
+发送的命令：5000,5,10,+CPIN: READY,AT+CPIN?
+---RECV:
++CPIN: READY
+
+OK
+发送的命令：400,2,9,OK,AT+CIMI
+---RECV:
+460046511704893
+
+OK
+成功接收CIMI！！！！发送的命令??00,2,10,OK,AT+QCCID
+---RECV:
++QCCID: 89860445041990154893
+
+OK
+成功接收CCID！！！
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+990154893
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 18,99
+
+OK
+csq:18
+发送的命令：400,1,10,OK,AT+CREG?
+---RECV:
++CREG: 0,1
+
+OK
+
+发?偷拿睿?00,1,11,OK,AT+CEREG?

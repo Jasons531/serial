@@ -1,0 +1,1435 @@
+BOOT CODE !!!!!!
+跳到A:8005000
+RTC_BKP_DR0:0X32F2
+ulSynchPrediv:0
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  999
+ulActualDelay:910
+ulCalibrateSynchPrediv:1097
+RTC:40626Hz
+00-01-01 00:00:00
+00-01-01 00:00:01
+A
+SW:YC.SW.P020.M0.14
+HW:
+ID:0906271082DE0005
+device.nongbotech.com
+9000
+ulFlag:00000090
+Spi:0x00c22013
+delay_time = -118
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1096
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1096
+ulActualDelay:998
+ulCalibrateSynchPrediv:1098
+RTC:40663Hz
+00-01-01 00:00:21
+Flag after Set-90
+00-01-01 00:00:22
+A
+SW:YC.SW.P020.M0.14
+HW:
+ID:0906271082DE0005
+device.nongbotech.com
+9000
+ulFlag:00000090
+Spi:0x00c22013
+delay_time = -119
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1098
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1098
+ulActualDelay:1000
+无须校准
+Flag after Set-90
+00-01-01 00:06:28
+A
+SW:YC.SW.P020.M0.14
+HW:
+ID:0906271082DE0005
+device.nongbotech.com
+9000
+ulFlag:00000090
+Spi:0x00c22013
+delay_time = -119
+BatV:4.117241
+BatP:100
+CgV:4.205297
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+BOOT CODE !!!!!!
+跳到A:8005000
+RTC_BKP_DR0:0X32F2
+ulSynchPrediv:0
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  999
+ulActualDelay:909
+ulCalibrateSynchPrediv:1099
+RTC:40700Hz
+00-01-01 00:00:00
+Flag after Set-100000b0
+00-01-01 00:00:01
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,??1
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+BulkErase
+spi ok
+delay_time = -1860
+BatV:4.115623
+BatP:100
+CgV:4.213463
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+BOOT CODE !!!!!!
+跳到A:8005000
+RTC_BKP_DR0:0X32F2
+ulSynchPrediv:0
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  999
+ulActualDelay:909
+ulCalibrateSynchPrediv:1099
+RTC:40700Hz
+00-01-01 00:00:00
+Flag after Set-100000b0
+00-01-01 00:00:01
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,???????)
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+BulkErase
+spi ok
+delay_time = -1850
+BatV:4.122097
+BatP:100
+CgV:4.208083
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port2:ff
+关闭主板开关:02
+
+
+位置	地址
+Gps:Ok
+未联网
+SIMinit
+
+发送的命令：400,10,4,OK,AT
+---RECV:
+RDY
+---RECV:
+RDY
+AT
+OK
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1
+AT
+OK
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1
+OK
+
+OK
+发送的命令：400,10,11,OK,AT+CMEE=2
+---RECV:AT+CMEE=2
+OK
+发送的命令：400,10,6,OK,ATE0
+---RECV:
+APP RDY
+ATE0
+OK
+发送的命令：5000,5,10,+CPIN: READY,AT+CPIN?
+---RECV:
++CPIN: READY
+
+OK
+发送的命令：400,2,9,OK,AT+CIMI
+---RECV:
+460046511704893
+
+OK
+成功接收CIMI！！！！发送的命令：400,2,10,OK,AT+QCCID
+---RECV:
++QCCID: 89860445041990154893
+
+OK
+成功接收CCID！！！
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+990154893
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+ulActualDelay:1001
+ulCalibrateSynchPrediv:1097
+RTC:40626Hz
+00-01-01 00:01:52
+Flag after Set-100000b0
+00-01-01 00:01:53
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,??1
+ID:09182011A8D80002
+3.112.30.114
+19000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -120
+BatV:4.123715
+BatP:100
+CgV:4.213463
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port2:ff
+关闭主板开关:02
+
+
+位置	地址
+Gps:Ok
+未联网
+SIMinit
+
+发送的命令：400,10,4,OK,AT
+---RECV:
+RDY
+发送的命令：400,10,4,OK,AT
+---RECV:AT
+OK
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1OK
+---RECV:ATV1K
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1
+OK
+发送的命令：400,10,11,OK,AT+CMEE=2
+---RECV:AT+CMEE=2
+OK
+发送的命令：400,10,6,OK,ATE0
+---RECV:ATE0
+OK
+
+OK
+发送的命令：5000,5,10,+CPIN: READY,AT+CPIN?
+---RECV:
++CPIN: READY
+
+OK
+发送的命令：400,2,9,OK,AT+CIMI
+---RECV:
+460046511704893
+
+OK
+成功接收CIMI！！！！发送的命令??00,2,10,OK,AT+QCCID
+---RECV:
++QCCID: 89860445041990154893
+
+OK
+成功接收CCID！！！
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+990154893
+
+OK
+csq:99
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1097
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1097
+ulActualDelay:998
+ulCalibrateSynchPrediv:1099
+RTC:40700Hz
+00-01-01 00:03:18
+Flag after Set-100000b0
+00-01-01 00:03:19
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,???????)
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.120987
+BatP:100
+CgV:4.205297
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+ulActualDelay:1000
+无须校准
+Flag after Set-100000b0
+00-01-01 00:05:34
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,???????)
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.123715
+BatP:100
+CgV:4.205297
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port2:ff
+关闭主板开关:02
+
+
+位置	地址
+Gps:Ok
+未联网
+SIMinit
+
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+ulActualDelay:1000
+无须校准
+Flag after Set-100000b0
+00-01-01 00:06:00
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,???????)
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.125333
+BatP:100
+CgV:4.197132
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+ulActualDelay:998
+ulCalibrateSynchPrediv:1101
+RTC:40774Hz
+00-01-01 00:06:13
+00-01-01 00:06:14
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,???????)
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.123715
+BatP:100
+CgV:4.205297
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1101
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1101
+ulActualDelay:1003
+ulCalibrateSynchPrediv:1097
+RTC:40626Hz
+00-01-01 00:06:43
+Flag after Set-100000b0
+00-01-01 00:06:44
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,???????)
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.129685
+BatP:100
+CgV:4.197132
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1097
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1097
+ulActualDelay:999
+ulCalibrateSynchPrediv:1098
+RTC:40663Hz
+00-01-01 00:06:53
+00-01-01 00:06:54
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,???????)
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.120987
+BatP:100
+CgV:4.199912
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+ulActualDelay:1001
+ulCalibrateSynchPrediv:1097
+RTC:40626Hz
+00-01-01 00:00:08
+00-01-01 00:00:09
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,???????)
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -120
+BatV:4.124222
+BatP:100
+CgV:4.208083
+Bat:Ing
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+BOOT CODE !!!!!!
+跳到A:8005000
+RTC_BKP_DR0:0X32F2
+ulSynchPrediv:0
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  999
+ulActualDelay:910
+ulCalibrateSynchPrediv:1097
+RTC:40626Hz
+00-01-01 00:00:00
+00-01-01 00:00:01
+A
+SW:YC.SW.P020.M0.14
+HW:????(????,???????)
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1097
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1097
+ulActualDelay:998
+ulCalibrateSynchPrediv:1099
+RTC:40700Hz
+00-01-01 00:00:06
+Flag after Set-100000b0
+00-01-01 00:00:07
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:h.com
+device.nongbotech.com
+device.nongbotech.com
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+ulActualDelay:1001
+ulCalibrateSynchPrediv:1097
+RTC:40626Hz
+00-01-01 00:00:02
+Flag after Set-100000b0
+00-01-01 00:00:03
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+3.112.30.114
+19000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -120
+BatV:4.126446
+BatP:100
+CgV:4.442101
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1097
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1097
+ulActualDelay:998
+ulCalibrateSynchPrediv:1099
+RTC:40700Hz
+00-01-01 00:00:25
+Flag after Set-100000b0
+00-01-01 00:00:26
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.123715
+BatP:100
+CgV:4.445042
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+ulActualDelay:1001
+ulCalibrateSynchPrediv:1097
+RTC:40626Hz
+00-01-01 00:02:50
+Flag after Set-100000b0
+00-01-01 00:02:51
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.122097
+BatP:100
+CgV:4.442101
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1097
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1097
+ulActualDelay:998
+ulCalibrateSynchPrediv:1099
+RTC:40700Hz
+00-01-01 00:03:14
+Flag after Set-100000b0
+00-01-01 00:03:15
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+3.112.30.114
+19000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.122097
+BatP:100
+CgV:4.442101
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1097
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1097
+ulActualDelay:999
+ulCalibrateSynchPrediv:1098
+RTC:40663Hz
+00-01-01 00:03:38
+00-01-01 00:03:39
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+3.112.30.114
+19000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -120
+BatV:4.120478
+BatP:100
+CgV:4.433935
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1097
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1097
+ulActualDelay:998
+ulCalibrateSynchPrediv:1099
+RTC:40700Hz
+00-01-01 00:00:03
+Flag after Set-100000b0
+00-01-01 00:00:04
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+3.112.30.114
+19000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -120
+BatV:4.119370
+BatP:100
+CgV:4.445042
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1097
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1097
+ulActualDelay:998
+ulCalibrateSynchPrediv:1099
+RTC:40700Hz
+00-01-01 00:00:09
+00-01-01 00:00:10
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+3.112.30.114
+19000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -120
+BatV:4.119370
+BatP:100
+CgV:4.442101
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+ulActualDelay:1001
+ulCalibrateSynchPrediv:1097
+RTC:40626Hz
+00-01-01 00:00:26
+Flag after Set-100000b0
+00-01-01 00:00:27
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.117753
+BatP:100
+CgV:4.436872
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:0
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  999
+ulActualDelay:909
+ulCalibrateSynchPrediv:1099
+RTC:40700Hz
+00-01-01 00:00:00
+Flag after Set-100000b0
+00-01-01 00:00:01
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+3.112.30.114
+19000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -120
+BatV:4.123715
+BatP:100
+CgV:4.442101
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:1099
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  1099
+ulActualDelay:1000
+无须校准
+Flag after Set-100000b0
+00-01-01 00:00:11
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+device.nongbotech.com
+9000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -121
+BatV:4.124826
+BatP:100
+CgV:4.442101
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port2:ff
+关闭主板开关:02
+
+
+位置	地址
+Gps:Ok
+未联网
+SIMinit
+
+发送的命令：400,10,4,OK,AT
+---RECV:
+RDY
+发送的命令：400,10,4,OK,AT
+---RECV:AT
+OK
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1OK
+---RECV:ATV1K
+发送的命令：400,10,6,OK,ATV1
+---RECV:ATV1
+OK
+发送的命令：400,10,11,OK,AT+CMEE=2
+---RECV:AT+CMEE=2
+OK
+发送的命令：400,10,6,OK,ATE0
+---RECV:ATE0
+OK
+
+OK
+发送的命令：5000,5,10,+CPIN: READY,AT+CPIN?
+---RECV:
++CPIN: READY
+
+OK
+发送的命令：400,2,9,OK,AT+CIMI
+---RECV:
+460046511704893
+
+OK
+成功接收CIMI！！！！发送的命令??00,2,10,OK,AT+QCCID
+---RECV:
++QCCID: 89860445041990154893
+
+OK
+成功接收CCID！！！
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+990154893
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+发送的命令：400,2,8,OK,AT+CSQ
+---RECV:
++CSQ: 99,99
+
+OK
+csq:99
+BOOT CODE !!!!!!
+跳到A:8005000
+ulSynchPrediv:0
+hrtc.Init.AsynchPrediv: 36
+hrtc.Init.SynchPrediv:  999
+ulActualDelay:911
+ulCalibrateSynchPrediv:1096
+RTC:40589Hz
+00-01-01 00:00:01
+Flag after Set-100000b0
+00-01-01 00:00:02
+A
+SW:YC.SW.P020.M0.14
+HW:YC.DZ.P00020.10+
+ID:09182011A8D80002
+3.112.30.114
+19000
+ulFlag:100000b0
+Spi:0x00c22013
+delay_time = -120
+BatV:4.124826
+BatP:100
+CgV:4.442101
+Bat:Ok
+485Rx 0:
+需要重新获取传感器连接状态
+打开?靼蹇?00
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port0:ff
+关闭主板开关:00
+
+打开主板开关:01
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port1:ff
+关闭主板开关:01
+
+打开主板开关:02
+485Tx 9:FE 03 04 00 00 00 00 F5 3C 
+Time:700
+接收超时
+485Tx 8:08 04 00 00 00 01 31 53 
+Time:100
+接收超时
+485Tx 8:17 03 00 15 00 01 97 38 
+Time:100
+接收超时
+485Tx 8:23 03 00 15 00 01 93 4C 
+Time:100
+接收超时
+485Tx 8:06 03 00 00 00 01 85 BD 
+Time:100
+接收超时
+Port2:ff
+关闭主板开关:02
+
+
+位置	地址
+Gps:Ok
+未联网
+SIMinit
+

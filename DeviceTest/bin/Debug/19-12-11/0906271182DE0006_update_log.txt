@@ -1,0 +1,9 @@
+Server update successful
+
+IP Address: device.nongbotech.com
+IP Port: 9000
+Server update successful
+
+IP Address: device.nongbotech.com
+IP Port: 9000
+Server update successful

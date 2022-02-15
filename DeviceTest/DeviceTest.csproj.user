@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Jason\Desktop\UpdateTool\|D:\Software\c#发布\DeviceTest\|D:\Software\c#发布\ForeignSensor\|D:\MyApp\设备出货\</PublishUrlHistory>
+    <InstallUrlHistory>https://nongbo-public.oss-cn-shenzhen.aliyuncs.com/hardware/UpdateTool/|https://nongbo-public.oss-cn-shenzhen.aliyuncs.com/hardware/|http://120.77.213.80:1208/Software/DeviceTest/|http://120.77.213.80:1208/Software/ForeignSensor/|http://local.lwy.app:9999/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
